@@ -4,8 +4,9 @@
 public class Main {
     public static final double PI = 3.14;
     public static void main(String[] args) {
-        int i = 0;
+        int i = 5;
         System.out.println("Hello World : "+PI);
+        System.out.println(i*2);
 
     }
 }
