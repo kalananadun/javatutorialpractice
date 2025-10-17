@@ -1,5 +1,7 @@
 public class Hello{
     public static void main(String arg[]){
-        System.out.println("Hello world...");
+            // literals 
+            int a = 56;
+            System.out.println(a);
     }
 } 
